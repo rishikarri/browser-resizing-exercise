@@ -5,4 +5,13 @@ h2{
 
 img{
 	margin: 2px;
+	max-width: 100%;
+}
+
+#block6{
+	border: solid 1px green;
+}
+
+#block7{
+	border: solid 1px blue;
 }
