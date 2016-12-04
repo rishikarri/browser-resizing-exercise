@@ -4,8 +4,8 @@ h2{
 }
 
 img{
-	margin: 2px;
-	max-width: 100%;
+	margin: 3px;
+	max-width: 90%;
 }
 
 #block6{
@@ -13,5 +13,5 @@ img{
 }
 
 #block7{
-	border: solid 1px blue;
+	/* border: solid 1px blue; */
 }
